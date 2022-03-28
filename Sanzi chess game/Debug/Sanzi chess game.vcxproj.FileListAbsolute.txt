@@ -1,0 +1,2 @@
+C:\Users\Yangyang\source\repos\Sanzi chess game\Debug\Sanzi chess game.exe
+E:\visual studio 2019\source\repos\Sanzi chess game\Debug\Sanzi chess game.exe
